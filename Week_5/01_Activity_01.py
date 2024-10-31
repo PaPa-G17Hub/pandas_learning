@@ -6,6 +6,7 @@
 #     • the planet’s radius in KM
 #     • the planet’s colour
 #     • an interesting feature of the planet.
+
 import pandas as pd
 import numpy as np
 
